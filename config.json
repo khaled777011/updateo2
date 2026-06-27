@@ -1,7 +1,7 @@
 {
-  "latest_version": "2.1.0",
-  "min_version": "2.1.0",
+  "latest_version": "1.0",
+  "min_version": "1.0",
   "force_update": false,
-  "update_url": "t.me/o2aiupdates",
-  "message": "تحديث جديد !"
+  "update_url": "T.me",
+  "message": ""
 }
